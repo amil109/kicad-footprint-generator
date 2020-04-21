@@ -138,11 +138,11 @@ HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.1x4.2mm:
 
 
   EP_size_x:
+    minimum: 2.6
+    maximum: 3.1   
+  EP_size_y:
     minimum: 3.8
     maximum: 4.2
-  EP_size_y:
-    minimum: 2.6
-    maximum: 3.1
   EP_num_paste_pads: [1, 2]
 
 HTSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm:

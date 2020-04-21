@@ -116,16 +116,18 @@ HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm_Mask2.4x3.7mm:
   EP_num_paste_pads: [1, 2]
 
 HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP2.85x4mm:
-  size_source: 'https://pdfserv.maximintegrated.com/package_dwgs/21-0108.PDF'
+  size_source: 'https://pdfserv.maximintegrated.com/package_dwgs/21-0108.PDF U20E-1'
   body_size_x:
     minimum: 4.3
     maximum: 4.5
   body_size_y:
     minimum: 6.4
     maximum: 6.6
+  body_height:
+    maximum: 1.1
   overall_size_x:
-    minimum: 6.4
-    maximum: 6.6
+    minimum: 6.25
+    maximum: 6.5
   lead_width:
     minimum: 0.19
     maximum: 0.30
